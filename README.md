@@ -1,2 +1,4 @@
 # skripsimarco
-Aspect Based Sentiment Analyst using Indobert &amp; SVM to compare Model from Texting Review Indonesia E-Commerce
+KOMPARASI MODEL SUPPORT VECTOR MACHINE DAN INDOBERT PADA ASPECT BASED SENTIMENT ANALYSIS PENGGUNA APLIKASI E – COMMERCE :
+ STUDI KASUS APLIKASI TOKOPEDIA & SHOPEE
+ &amp; SVM to compare Model from Texting Review Indonesia E-Commerce
