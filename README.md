@@ -6,5 +6,5 @@ E-commerce is one of the largest apps in the world, and even in Indonesia, it's 
 - IndoBERT (Transformer)
 - SVM (Support Vector Machine)
 
-&amp; With these two models as a comparison, they can be used as the basis for the results of a prediction model created using Streamlit.
+With these two models as a comparison, they can be used as the basis for the results of a prediction model created using Streamlit.
 The research method used is CRISP-DM: starting from Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation and Deployment.
