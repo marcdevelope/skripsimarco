@@ -36,8 +36,3 @@ The same workflow :
 (training/evaluation) Matplotlib, Seaborn, scikit-learn, timm
 - A CUDA-capable GPU is recommended for training (this research used Google Colab with an NVIDIA Tesla T4)
 
-## Setup
-1. Clone / download the project:
-   git clone <repository-url>
-cd "absa-ecommerce-analyst-sentiment"
-2. 
