@@ -28,10 +28,16 @@ The same workflow :
 <img width="6176" height="4448" alt="image" src="https://github.com/user-attachments/assets/1d37287e-c738-41ee-91d5-81f5bc2555f2" />
 
 # 🚀 Installation
-- Python 3.9+
+- Python 3.11+
 - PyTorch 2.x and Torchvision (matching CUDA build)
-- Ultralytics (YOLOv8)
+- Mini LM-L12 (LLM Labeling)
 - Streamlit (for the web app)
 - OpenCV, Pillow, NumPy
 (training/evaluation) Matplotlib, Seaborn, scikit-learn, timm
 - A CUDA-capable GPU is recommended for training (this research used Google Colab with an NVIDIA Tesla T4)
+
+## Setup
+1. Clone / download the project:
+   git clone <repository-url>
+cd "absa-ecommerce-analyst-sentiment"
+2. 
