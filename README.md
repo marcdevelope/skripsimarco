@@ -21,4 +21,9 @@ The research method used is CRISP-DM: starting from Business Understanding, Data
 - Comprehensive Evaluation : The evaluation results are seen from 3 aspects, namely Recall, Precision and F1 Score, which are the benchmarks for data balance and strength between training and testing data.
 
 # 🏗️ Project Architecture / Research Workflow
+The research follows the CRISP-DM methodology. The framework diagram (in English) is shown below
 <img width="9088" height="3012" alt="image" src="https://github.com/user-attachments/assets/bb80ad12-1205-4193-8685-9b79e5ff450a" />
+
+The same workflow : 
+<img width="6176" height="4448" alt="image" src="https://github.com/user-attachments/assets/1d37287e-c738-41ee-91d5-81f5bc2555f2" />
+
