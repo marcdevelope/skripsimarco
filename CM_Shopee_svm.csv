@@ -1,0 +1,6 @@
+,negative_1,negative_2,neutral,positive,very_negative
+negative_1,95,43,34,0,0
+negative_2,15,1879,274,3,0
+neutral,14,348,1428,130,0
+positive,2,7,51,1140,0
+very_negative,0,4,0,0,10
