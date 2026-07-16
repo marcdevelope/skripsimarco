@@ -16,3 +16,9 @@ The research method used is CRISP-DM: starting from Business Understanding, Data
 - Interactive Deployment - using Streamlit web app to made web prediction application to predict about texting commentar using 2 Models
 
 # 🎯 Key Contributions
+- Aspect Labeling : This aspect labeling uses the LLM model, namely MiniLM - L12, by looking for 1 review word that exactly matches 4 aspects.
+- Modeling Data Text : Text data modeling was carried out using 2 models, namely IndoBERT and SVM, and before the data model was carried out, it was divided into 70:15:15 with a capacity of 70% training data, 15% validation data, and 15% test data.
+- Comprehensive Evaluation : The evaluation results are seen from 3 aspects, namely Recall, Precision and F1 Score, which are the benchmarks for data balance and strength between training and testing data.
+
+# 🏗️ Project Architecture / Research Workflow
+<img width="9088" height="3012" alt="image" src="https://github.com/user-attachments/assets/bb80ad12-1205-4193-8685-9b79e5ff450a" />
